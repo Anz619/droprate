@@ -1,2 +1,0 @@
-# droprate
-Drop rate iteam
